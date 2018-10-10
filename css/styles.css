@@ -1,16 +1,20 @@
 body{
-  background-color: #edc4e2;;
+  background-color: #edc4e2;
+  text-align: center;
 }
-
-img.intro{
+  .intro{
   margin: 10% 30%;
-  border: 2px solid gray;
-}
-h2.intro{
   border: 5px solid #d831ab;
+  color: red;
+  padding: 0;
 }
-p.intro {
+#image {
+  width:100%;
+}
+  .paragraphs{
+    margin: 8% 10%;
   width: 75%;
   font-style: italic;
   font-weight: bold;
+  color: blue;
 }
