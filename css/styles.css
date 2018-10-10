@@ -1,0 +1,16 @@
+body{
+  background-color: #edc4e2;;
+}
+
+img.intro{
+  margin: 10% 30%;
+  border: 2px solid gray;
+}
+h2.intro{
+  border: 5px solid #d831ab;
+}
+p.intro {
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+}
